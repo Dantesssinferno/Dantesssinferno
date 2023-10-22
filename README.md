@@ -1,4 +1,4 @@
-#  dantesssinferno
+# Dantessinferno
 <h1 align="center">Привет, меня зовут Максим 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior QA engineer, с желанием профессионального роста.</h3>
@@ -6,9 +6,8 @@
 ![Header](https://github.com/Dantesssinferno/dantessinferno/blob/main/Assets/THANK%20YOU%20SO%20MUCH!.png)
 
 ## Обо мне:
-
-<h3 align="center">Я начинающий quality assurance engineer. Прошел соответствующую подготовку на курсах от <a href="https://prog.academy/qa" target="_blank"> Prog.academy. </a> 
-<a href="https://disk.yandex.ru/i/nI-pyPRbtkB0ww">Сертификат.</a></h3>
+<h3 align="center">Я начинающий quality assurance engineer. Прошел соответствующую подготовку на курсах от <a href="https://prog.academy/qa" target="_blank">Prog.academy.</a> 
+<a href="https://disk.yandex.ru/i/nI-pyPRbtkB0ww" target="_blank">Сертификат.</a> </h3>
 
 ### CV:
 
