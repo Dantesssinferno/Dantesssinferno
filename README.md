@@ -6,7 +6,8 @@
 ![Header](https://github.com/Dantesssinferno/dantessinferno/blob/main/Assets/THANK%20YOU%20SO%20MUCH!.png)
 
 ## Обо мне
-<h3 align="center">Я начинающий quality assurance engineer. Прошел соответствующую подготовку на курсах от <a href="https://prog.academy/qa" target="_blank">Prog.academy.</a></h3>
+<h3 align="center">Я начинающий quality assurance engineer. Прошел соответствующую подготовку на курсах от <a href="https://prog.academy/qa" target="_blank">Prog.academy.</a> 
+<a href="https://disk.yandex.ru/i/nI-pyPRbtkB0ww" target="_blank">Сертификат.</a> </h3>
 
 ### Навыки
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=47C5FB)
@@ -32,4 +33,8 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-090909?style=for-the-badge&logo=Eclipse&logoColor=6296CC)
 ![Intellij IDEA](https://img.shields.io/badge/-Intellij_IDEA-090909?style=for-the-badge&logo=IntellijIDEA&logoColor=6296CC)
 
-Follow Me
+### Follow Me
+
+[![instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram&logoColor=478C5FB)](https://www.instagram.com/maksstar92/)
+[![vk](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk&logoColor=097CDB)](https://vk.com/id526190332)
+[![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=097CDB)](https://www.linkedin.com/in/maksstar92/)
