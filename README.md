@@ -3,8 +3,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior QA engineer, с желанием профессионального роста.</h3>
 
-![Header](https://github.com/Dantesssinferno/dantessinferno/blob/main/Assets/THANK%20YOU%20SO%20MUCH!.png)
-
 ## Обо мне:
 <h3 align="center">Я начинающий quality assurance engineer. Прошел соответствующую подготовку на курсах от <a href="https://prog.academy/qa" target="_blank">Prog.academy.</a> 
 <a href="https://disk.yandex.ru/i/nI-pyPRbtkB0ww" target="_blank">Сертификат.</a> </h3>
@@ -47,6 +45,7 @@
   <li>Тестирование инсталятора приложения ListBoxer,<a href="https://docs.google.com/spreadsheets/d/11m8orBiJFvvGmFhRseHRTzYdp6r6bKLK_u6OWry7vk0/edit#gid=0"> пример выполения задания.</a> </li>
   <li>Дизайн тест-кейсов для приложения ListBoxer,<a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=0"> пример выполения задания.</a> </li>
   <li>Тестовое покрытие,<a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=988188004"> пример выполения задания.</a></li>
+  <li>Выполнить тестирование приложения ListBoxer, <a href="https://classroom.google.com/c/NjE2MDY1MDY0NDUx/a/NjE3MTQwNjQ2OTgx/details"> пример выполения задания.</a></li>
   <li>Результаты выполнения тест-кейсов, <a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=443104143"> пример выполения задания.</a></li>
 </ol>
 
