@@ -47,6 +47,7 @@
   <li>Тестовое покрытие,<a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=988188004"> пример выполения задания.</a></li>
   <li>Выполнить тестирование приложения ListBoxer, <a href="https://classroom.google.com/c/NjE2MDY1MDY0NDUx/a/NjE3MTQwNjQ2OTgx/details"> пример выполения задания.</a></li>
   <li>Результаты выполнения тест-кейсов, <a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=443104143"> пример выполения задания.</a></li>
+  <li>Коллекции Postman, <a href="https://github.com/Dantesssinferno/Postman.git"> пример выполения задания.</a></li>
   <li>Основы Java, <a href="https://github.com/Dantesssinferno/-Home-Works.git"> пример выполненных заданий.</a></li>
 </ol>
 
