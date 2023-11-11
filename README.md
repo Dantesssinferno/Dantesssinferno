@@ -9,7 +9,7 @@
 
 ### CV:
 
-<a href="https://docviewer.yandex.ru/view/898370927/?*=7lzzeZgIA8gXgr2WXPIPetnb5Xl7InVybCI6InlhLWRpc2s6Ly8vZGlzay9DViBTdGFyb3N0ZW5rbyBNYXhpbS5wZGYiLCJ0aXRsZSI6IkNWIFN0YXJvc3RlbmtvIE1heGltLnBkZiIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiODk4MzcwOTI3IiwidHMiOjE2OTk3MjY2OTc2MzksInl1IjoiOTI0MDM2MjY4MTY5ODI2ODEwNSJ9">Ссылка на CV</a>
+<a href="https://docviewer.yandex.ru/view/898370927/?*=yNdPAnJXnzQJ4f8VRj4sUkwvsZZ7InVybCI6InlhLWRpc2s6Ly8vZGlzay9DViBTdGFyb3N0ZW5rbyBNYXhpbS5wZGYiLCJ0aXRsZSI6IkNWIFN0YXJvc3RlbmtvIE1heGltLnBkZiIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiODk4MzcwOTI3IiwidHMiOjE2OTk3Mzg2NDQwNTYsInl1IjoiOTI0MDM2MjY4MTY5ODI2ODEwNSJ9">Ссылка на CV</a>
 
 ### Навыки:
 
