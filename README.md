@@ -39,16 +39,16 @@
 ### Тестовая документация:
 
 <ol>
-  <li>Тестирование пульта от телевизора по видам, типам, уровням тестирования, <a href="https://docs.google.com/spreadsheets/d/1ZofpgNv17KyLg4f40ysZ1HQsXQ9rmYljZmSlQv5i-_E/edit#gid=0" target="_blank"> пример выполения задания.</a></li>
+  <li>Тестирование пульта от телевизора по видам, типам, уровням тестирования, <a href="https://docs.google.com/spreadsheets/d/1ZofpgNv17KyLg4f40ysZ1HQsXQ9rmYljZmSlQv5i-_E/edit#gid=0" target="_blank"> пример выполнения задания.</a></li>
   <li>Функциональные требования к приложению ListBoxer по его бизнес-описанию, <a href="https://docs.google.com/document/d/12ugl_1-MpkS-O_xsxZWse49B1X_PSoLNsCadPxnBsPU/edit" target="_blank"> пример выполения задания.</a></li>
-  <li>План тестирования ListBoxer, <a href="https://docs.google.com/document/d/1WlbR2cVD7n3WBcS8bH_Z6BLX14hurFiiZBPa9KO3Hb0/edit"> пример выполения задания.</a></li>
-  <li>Тестирование инсталятора приложения ListBoxer,<a href="https://docs.google.com/spreadsheets/d/11m8orBiJFvvGmFhRseHRTzYdp6r6bKLK_u6OWry7vk0/edit#gid=0"> пример выполения задания.</a> </li>
-  <li>Дизайн тест-кейсов для приложения ListBoxer,<a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=0"> пример выполения задания.</a> </li>
-  <li>Тестовое покрытие,<a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=988188004"> пример выполения задания.</a></li>
-  <li>Выполнить тестирование приложения ListBoxer, <a href="https://classroom.google.com/c/NjE2MDY1MDY0NDUx/a/NjE3MTQwNjQ2OTgx/details"> пример выполения задания.</a></li>
-  <li>Результаты выполнения тест-кейсов, <a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=443104143"> пример выполения задания.</a></li>
-  <li>Коллекции Postman, <a href="https://github.com/Dantesssinferno/Postman.git"> пример выполения задания.</a></li>
-  <li>Основы Java, <a href="https://github.com/Dantesssinferno/-Home-Works.git"> пример выполненных заданий.</a></li>
+  <li>План тестирования ListBoxer, <a href="https://docs.google.com/document/d/1WlbR2cVD7n3WBcS8bH_Z6BLX14hurFiiZBPa9KO3Hb0/edit"> пример выполнения задания.</a></li>
+  <li>Тестирование инсталятора приложения ListBoxer,<a href="https://docs.google.com/spreadsheets/d/11m8orBiJFvvGmFhRseHRTzYdp6r6bKLK_u6OWry7vk0/edit#gid=0"> пример выполнения задания.</a> </li>
+  <li>Дизайн тест-кейсов для приложения ListBoxer,<a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=0"> пример выполнения задания.</a> </li>
+  <li>Тестовое покрытие,<a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=988188004"> пример выполнения задания.</a></li>
+  <li>Выполнить тестирование приложения ListBoxer, <a href="https://classroom.google.com/c/NjE2MDY1MDY0NDUx/a/NjE3MTQwNjQ2OTgx/details"> пример выполнения задания.</a></li>
+  <li>Результаты выполнения тест-кейсов, <a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=443104143"> пример выполнения задания.</a></li>
+  <li>Коллекции Postman, <a href="https://github.com/Dantesssinferno/Postman.git"> пример выполнения задания.</a></li>
+  <li>Основы Java, <a href="https://github.com/Dantesssinferno/-Home-Works.git"> пример выполнения задания.</a></li>
 </ol>
 
 ### Соцсети:
