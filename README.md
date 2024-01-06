@@ -40,7 +40,7 @@
 
 <ol>
   <li>Функциональное тестирование мобильного приложения по спецификациям (чек-лист, тейст-кейсы, баг-репорты, модель формулы рассчета стоимости доставки), <a href="https://docs.google.com/spreadsheets/d/1olerws5Vz1t8wkDR6HjFkGBZdWR-1vApxIBN6lj-piQ/edit#gid=1016518820" target="_blank"> пример выполнения задания.</a></li>
-<li>Тестирование макета дизайна сайта в Figma, <a href="https://docs.google.com/spreadsheets/d/1qFkfM7goo9ihN5PuZk6RAhT4Mr3mhM-DImVk_LFuzbc/edit#gid=322750584" target="_blank"> пример выполнения задания. </a> <a href="https://p-s.email/#!" target="_blank"> Ссылка на сайт.</a></li>
+<li>Тестирование макета дизайна сайта в Figma, <a href="https://docs.google.com/spreadsheets/d/1qFkfM7goo9ihN5PuZk6RAhT4Mr3mhM-DImVk_LFuzbc/edit#gid=322750584" target="_blank"> пример выполнения задания. </a> <a href="https://p-s.email/#!" target="_blank"> Ссылка на сайт.</a> <a href="https://drive.google.com/file/d/1IsqLPSwVWTLWFdV3ah3foInDIfZ-Z7sg/view"> Ссылка на макет.</a></li>
   <li>Тестирование пульта от телевизора по видам, типам, уровням тестирования, <a href="https://docs.google.com/spreadsheets/d/1ZofpgNv17KyLg4f40ysZ1HQsXQ9rmYljZmSlQv5i-_E/edit#gid=0" target="_blank"> пример выполнения задания.</a></li>
   <li>Функциональные требования к приложению ListBoxer по его бизнес-описанию, <a href="https://docs.google.com/document/d/12ugl_1-MpkS-O_xsxZWse49B1X_PSoLNsCadPxnBsPU/edit" target="_blank"> пример выполения задания.</a></li>
   <li>План тестирования ListBoxer, <a href="https://docs.google.com/document/d/1WlbR2cVD7n3WBcS8bH_Z6BLX14hurFiiZBPa9KO3Hb0/edit"> пример выполнения задания.</a></li>
