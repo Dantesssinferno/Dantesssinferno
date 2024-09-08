@@ -4,7 +4,7 @@
 <h3 align="center">QA engineer, с желанием профессионального роста.</h3>
 
 ## Обо мне:
-<h3 align="center">Я начинающий quality assurance engineer. Прошел соответствующую подготовку на курсах от <a href="https://prog.academy/qa" target="_blank">Prog.academy.</a> 
+<h3 align="center">Я quality assurance engineer. Прошел соответствующую подготовку на курсах от <a href="https://prog.academy/qa" target="_blank">Prog.academy.</a> 
 <a href="https://disk.yandex.ru/i/nI-pyPRbtkB0ww" target="_blank">Сертификат.</a> </h3>
 
 ### CV:
