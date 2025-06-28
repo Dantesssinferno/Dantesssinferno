@@ -51,6 +51,7 @@
   <li>Результаты выполнения тест-кейсов, <a href="https://docs.google.com/spreadsheets/d/12mHk2Q5nYQnhpM-GfuJxeAKEH4UqavPofMFKEMe3Ka4/edit#gid=443104143"> пример выполнения задания.</a></li>
   <li>Коллекции Postman, <a href="https://github.com/Dantesssinferno/Postman.git"> пример выполнения задания.</a></li>
   <li>Основы Java, <a href="https://github.com/Dantesssinferno/-Home-Works.git"> пример выполнения задания.</a></li>
+  <li>Основы Java, <a href="https://github.com/Dantesssinferno/my-python-tests/tree/main/HomeWorks"> пример выполнения задания.</a></li>
 </ol>
 
 ### Соцсети:
