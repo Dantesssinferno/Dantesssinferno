@@ -13,46 +13,49 @@
 
 ### Навыки:
 
-<!-- Архитектура / процессы -->
-![Client-Server Architecture](https://img.shields.io/badge/-Client--Server_Architecture-090909?style=for-the-badge&logo=Architecture&logoColor=6296CC)
-![QA/QC](https://img.shields.io/badge/-QA/QC-090909?style=for-the-badge&logo=quality&logoColor=6296CC)
-![Happy Path Testing](https://img.shields.io/badge/-Happy_Path_Testing-090909?style=for-the-badge&logo=testinglibrary&logoColor=6296CC)
-![Retesting](https://img.shields.io/badge/-Retesting-090909?style=for-the-badge&logo=testinglibrary&logoColor=6296CC)
+### Навыки:
 
-<!-- Инструменты и платформы -->
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
-![Zephyr Scale](https://img.shields.io/badge/-Zephyr_Scale-090909?style=for-the-badge&logo=zephyr&logoColor=23B8FF)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-090909?style=for-the-badge&logo=OpenAI&logoColor=00DC82)
-![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=confluence&logoColor=1F66F0)
-![Git_Bash](https://img.shields.io/badge/-Git_Bash-090909?style=for-the-badge&logo=git&logoColor=F05032)
-![FileZilla](https://img.shields.io/badge/-FileZilla-090909?style=for-the-badge&logo=filezilla&logoColor=BF0000)
-![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-090909?style=for-the-badge&logo=charles&logoColor=6296CC)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Pixel_Perfect](https://img.shields.io/badge/-Pixel_Perfect-090909?style=for-the-badge&logo=pixels&logoColor=6296CC)
+<!-- Основные -->
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5&logoColor=47C5FB)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=097CDB)
+![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=GoogleChrome&logoColor=F8C52C)
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=6296CC)
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+<!-- Инструменты -->
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-090909?style=for-the-badge&logo=dbeaver&logoColor=6296CC)
-![TestFlight](https://img.shields.io/badge/-TestFlight-090909?style=for-the-badge&logo=testflight&logoColor=1296EC)
-
-<!-- Мониторинг/логирование -->
-![Kibana](https://img.shields.io/badge/-Kibana-090909?style=for-the-badge&logo=kibana&logoColor=005571)
+![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
+![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-090909?style=for-the-badge&logo=charles&logoColor=6296CC)
+![Zephyr Scale](https://img.shields.io/badge/-Zephyr_Scale-090909?style=for-the-badge&logo=zephyr&logoColor=23B8FF)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail&logoColor=E5D3FF)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=F05032)
+![Git Bash](https://img.shields.io/badge/-Git_Bash-090909?style=for-the-badge&logo=git&logoColor=F05032)
+![Confluence](https://img.shields.io/badge/-Confluence-090909?style=for-the-badge&logo=confluence&logoColor=1F66F0)
+![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=Jira&logoColor=0052CC)
 ![Sentry](https://img.shields.io/badge/-Sentry-090909?style=for-the-badge&logo=sentry&logoColor=FFFFFF)
+![Kibana](https://img.shields.io/badge/-Kibana-090909?style=for-the-badge&logo=kibana&logoColor=005571)
 ![Grafana](https://img.shields.io/badge/-Grafana-090909?style=for-the-badge&logo=grafana&logoColor=F46800)
 
-<!-- Языки/форматы/библиотеки -->
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)
-![REST_API](https://img.shields.io/badge/-REST_API-090909?style=for-the-badge&logo=rest&logoColor=6296CC)
+<!-- Тест-дизайн и документация -->
+![Test_Plan](https://img.shields.io/badge/-Test_Plan-090909?style=for-the-badge&logo=TestPlan&logoColor=6296CC)
+![Check_List](https://img.shields.io/badge/-Check_List-090909?style=for-the-badge&logo=Checklist&logoColor=6296CC)
+![Test_Case](https://img.shields.io/badge/-Test_Case-090909?style=for-the-badge&logo=TestCase&logoColor=6296CC)
+![Bug_Report](https://img.shields.io/badge/-Bug_Report-090909?style=for-the-badge&logo=BugReport&logoColor=6296CC)
+![Test_Design](https://img.shields.io/badge/-Test_Design-090909?style=for-the-badge&logo=testinglibrary&logoColor=6296CC)
+![Happy Path Testing](https://img.shields.io/badge/-Happy_Path_Testing-090909?style=for-the-badge&logo=testinglibrary&logoColor=6296CC)
+![Retesting](https://img.shields.io/badge/-Retesting-090909?style=for-the-badge&logo=testinglibrary&logoColor=6296CC)
+![Client-Server Architecture](https://img.shields.io/badge/-Client--Server_Architecture-090909?style=for-the-badge&logo=architecture&logoColor=6296CC)
+
+<!-- Форматы -->
 ![JSON](https://img.shields.io/badge/-JSON-090909?style=for-the-badge&logo=json&logoColor=6296CC)
 ![RegExp](https://img.shields.io/badge/-RegExp-090909?style=for-the-badge&logo=regex&logoColor=6296CC)
 
-<!-- Типы тестирования -->
-![Web_Testing](https://img.shields.io/badge/-Web_Testing-090909?style=for-the-badge&logo=google-chrome&logoColor=6296CC)
-![API_Testing](https://img.shields.io/badge/-API_Testing-090909?style=for-the-badge&logo=swagger&logoColor=85EA2D)
-![Mobile_Testing](https://img.shields.io/badge/-Mobile_Testing-090909?style=for-the-badge&logo=android&logoColor=3DDC84)
-
-<!-- Офис/таблицы -->
-![Google_Sheets](https://img.shields.io/badge/-Google_Sheets-090909?style=for-the-badge&logo=googlesheets&logoColor=34A853)
-![Microsoft_Office](https://img.shields.io/badge/-Microsoft_Office-090909?style=for-the-badge&logo=microsoftoffice&logoColor=D83B01)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-090909?style=for-the-badge&logo=microsoftpowerpoint&logoColor=CD3E27)
-![Excel](https://img.shields.io/badge/-Excel-090909?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+<!-- UI/UX -->
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Pixel Perfect](https://img.shields.io/badge/-Pixel_Perfect-090909?style=for-the-badge&logo=pixels&logoColor=6296CC)
 
 
 ### Тестовая документация:
