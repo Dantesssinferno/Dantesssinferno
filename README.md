@@ -85,4 +85,6 @@
 ### Статистика
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dantesssinferno&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dantesssinferno&theme=github_dark" />
+</p>
