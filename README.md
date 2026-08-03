@@ -85,4 +85,4 @@
 ### Статистика
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dantesssinferno&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dantesssinferno&theme=github_dark)
