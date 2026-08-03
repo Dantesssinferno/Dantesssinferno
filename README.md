@@ -83,7 +83,6 @@
 [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=097CDB)](https://www.linkedin.com/in/maksstar92/)
 
 ### Статистика
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dantesssinferno&theme=github_dark" />
-</p>
+- Public repos: 12
+- Followers: 1
+- Following: 1
