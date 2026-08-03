@@ -84,4 +84,4 @@
 
 ### Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dantesssinferno&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dantesssinferno&show_icons=true&theme=github_dark&hide_border=true)
