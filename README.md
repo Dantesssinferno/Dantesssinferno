@@ -82,7 +82,10 @@
 [![vk](https://img.shields.io/badge/-vk-090909?style=for-the-badge&logo=vk&logoColor=097CDB)](https://vk.com/id526190332)
 [![linkedin](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=097CDB)](https://www.linkedin.com/in/maksstar92/)
 
-### Статистика
-- Public repos: 12
-- Followers: 1
-- Following: 1
+## GitHub Projects
+
+- QA-AI-LAB — AI-powered QA workspace using n8n and Docker.
+- Kafka-LAB — Kafka / Redpanda producer-consumer playground.
+- WireMock-LAB — REST API mocking laboratory.
+- my_selenium_tests — UI automation with Python + Selenium.
+- MyFirstWebsite — HTML/CSS practice project.
