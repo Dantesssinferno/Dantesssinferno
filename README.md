@@ -84,6 +84,5 @@
 
 ### Статистика
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Dantesssinferno&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dantesssinferno&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
